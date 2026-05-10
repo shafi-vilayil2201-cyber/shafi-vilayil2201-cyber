@@ -116,14 +116,8 @@ Gmail Inbox ──▶ Log Applicants ──▶ Keyword Flag ──▶ Slack Revi
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=shafivilayil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafivilayil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=shafivilayil&theme=tokyonight&hide_border=true&background=0D1117&ring=00f5d4&fire=a78bfa&currStreakLabel=00f5d4)](https://git.io/streak-stats)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=shafi-vilayil2201-cyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafi-vilayil2201-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9"/>
 
 </div>
 
@@ -133,10 +127,10 @@ Gmail Inbox ──▶ Log Applicants ──▶ Keyword Flag ──▶ Slack Revi
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00f5d4?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafi-vilayil-325178287/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00f5d4?style=for-the-badge&logo=vercel&logoColor=black)](https://shafi-vilayil.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shafivilayil2201@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shafi-vilayil2201-cyber/)
 
 </div>
 
